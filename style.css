@@ -1,0 +1,40 @@
+canvas{
+    margin-top: 141px;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div{
+    font-size: 20px;
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div2{
+    font-size: 20px;
+}
+
+.result_para,.result_para2{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+
+.copyRight{
+    bottom:0;
+    color: White;
+    background-color: grey;
+    position: fixed;
+    width: 100%;
+    line-height:3;
+    text-align: center;
+}
+
